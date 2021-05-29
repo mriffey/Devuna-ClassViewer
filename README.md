@@ -1,3 +1,9 @@
+** Working toward a compilable all-in-one repo for ClassViewer. **
+
+2021-05-29 - Added ability to see C11. Prior code would default to C55 if no known Clarion build was found. At present Scintilla.init() GPFs. Ill get back to it.
+
+# THIS IS A FORK - the info below is Randy's original comments. #
+
 # About ClassViewer #
 
 ----------
