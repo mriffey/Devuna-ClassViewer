@@ -1,0 +1,142 @@
+Started 
+Heap handle: 07D10000
+start process C:\Projects\Devuna-ClassViewer\application\bin\debug\abcview.Exe
+Command line :> "C:\Clarion11NT10\bin\Cladb.exe"  -s Debug  -c "C:\Users\pulle\AppData\Roaming\SoftVelocity\Clarion\11.0"  "C:\Projects\Devuna-ClassViewer\application\bin\debug\abcview.Exe" 
+Command line :> "C:\Projects\Devuna-ClassViewer\application\bin\debug\abcview.Exe" 
+Redirection file :> 
+CREATE_PROCESS_DEBUG_EVENT  ! No image name found
+g.debug_name C:\Projects\Devuna-ClassViewer\application\bin\debug\abcview.Exe
+BaseOfImage                00400000
+CREATE_PROCESS_DEBUG_EVENT: process main thread tid=00001428
+thread handle=000005F4
+ntdll.dll Loaded at: 77CA0000
+No debug information
+KERNEL32.dll Loaded at: 76A90000
+No debug information
+KERNELBASE.dll Loaded at: 76E20000
+No debug information
+apphelp.dll Loaded at: 73B90000
+No debug information
+ADVAPI32.dll Loaded at: 77040000
+No debug information
+msvcrt.dll Loaded at: 76210000
+No debug information
+CREATE_THREAD_DEBUG_EVENT: tid=00005858
+thread handle=00000634
+SECHOST.dll Loaded at: 77320000
+No debug information
+RPCRT4.dll Loaded at: 769D0000
+No debug information
+CREATE_THREAD_DEBUG_EVENT: tid=000053D0
+thread handle=00000640
+CREATE_THREAD_DEBUG_EVENT: tid=00000D38
+thread handle=0000063C
+COMDLG32.dll Loaded at: 771F0000
+No debug information
+combase.dll Loaded at: 779E0000
+No debug information
+ucrtbase.dll Loaded at: 75BC0000
+No debug information
+ClaASC.dll Loaded at: 00900000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 00900000
+ClaDOS.dll Loaded at: 00D30000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 00D30000
+clacpxml.dll Loaded at: 53F20000
+No debug information
+SHCORE.dll Loaded at: 774E0000
+No debug information
+USER32.dll Loaded at: 77570000
+No debug information
+win32u.dll Loaded at: 77C70000
+No debug information
+claxmlty.dll Loaded at: 01270000
+No debug information
+GDI32.dll Loaded at: 76890000
+No debug information
+COMCTL32.dll Loaded at: 74BE0000
+No debug information
+gdi32full.dll Loaded at: 76D40000
+No debug information
+ClaRUN.dll Loaded at: 01000000
+WslDb$$NotifyDebugger 010E2AAC
+msvcp_win.dll Loaded at: 76C60000
+No debug information
+ole32.dll Loaded at: 76120000
+No debug information
+SHLWAPI.dll Loaded at: 77990000
+No debug information
+OLEAUT32.dll Loaded at: 768C0000
+No debug information
+SHELL32.dll Loaded at: 762D0000
+No debug information
+MPR.dll Loaded at: 730C0000
+No debug information
+oledlg.dll Loaded at: 5AF10000
+No debug information
+IQXML.dll Loaded at: 01280000
+UNLOAD_DLL_DEBUG_EVENT: IQXML
+BaseOfDll               01280000
+cwhhla.dll Loaded at: 04800000
+No debug information
+WINSPOOL.DRV Loaded at: 74070000
+No debug information
+WINSPOOL.DRV Loaded at: 00D30000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 00D30000
+HHCTRL.OCX Loaded at: 5AD80000
+No debug information
+ClaASC.dll Loaded at: 00910000
+No debug information
+ClaDOS.dll Loaded at: 00D30000
+No debug information
+IQXML.dll Loaded at: 01280000
+VERSION.dll Loaded at: 752E0000
+No debug information
+IMM32.dll Loaded at: 76B80000
+No debug information
+MSIMG32.dll Loaded at: 5D590000
+No debug information
+Windows.Storage.dll Loaded at: 754D0000
+No debug information
+Wldp.dll Loaded at: 754A0000
+No debug information
+UxTheme.dll Loaded at: 70ED0000
+No debug information
+MSCTF.dll Loaded at: 773A0000
+No debug information
+CREATE_THREAD_DEBUG_EVENT: tid=0000049C
+thread handle=000006E0
+CREATE_THREAD_DEBUG_EVENT: tid=00005458
+thread handle=000006E8
+TextShaping.dll Loaded at: 70D60000
+No debug information
+AppCore.dll Loaded at: 74F30000
+No debug information
+bcryptPrimitives.dll Loaded at: 77480000
+No debug information
+TextInputFramework.dll Loaded at: 691E0000
+No debug information
+CoreUIComponents.dll Loaded at: 68EC0000
+No debug information
+CoreMessaging.dll Loaded at: 69140000
+No debug information
+WS2_32.dll Loaded at: 75B50000
+No debug information
+NTMARTA.dll Loaded at: 75AE0000
+No debug information
+WinTypes.dll Loaded at: 68DE0000
+No debug information
+WinTypes.dll Loaded at: 04120000
+No debug information
+WinTypes.dll Loaded at: 04200000
+No debug information
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 04120000
+UNLOAD_DLL_DEBUG_EVENT: BaseOfDll 04200000
+CREATE_THREAD_DEBUG_EVENT: tid=00002648
+thread handle=00000714
+CREATE_THREAD_DEBUG_EVENT: tid=000018E0
+thread handle=00000710
+USP10.dll Loaded at: 5D2D0000
+No debug information

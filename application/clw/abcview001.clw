@@ -504,7 +504,7 @@ J                   LONG
           loc:szSection = 'Clarion 11.'
      END
      
-     stop('loadredirectionqueue: glo:bClarionVersion=' & glo:bClarionVersion)
+     stop('loadredirectionqueue: glo:bClarionVersion=' & glo:bClarionVersion & ' ' & CLIP(loc:szSection))
 
      IF glo:bClarionVersion < CWVERSION_C70
         loc:szRoot = GETINI(loc:szSection,'root')                              !get root directory from win.ini
